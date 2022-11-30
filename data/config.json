@@ -1,0 +1,14 @@
+{
+    "USE_BOTH_RPC": "true",
+    "USE_WS": "true",
+    "RPC_WS": "ws://127.0.0.1:8546",
+    "RPC_HTTP": "https://bsc-dataseed.binance.org/",
+    "POLYGON_RPC_HTTP": "https://polygon-rpc.com",
+    "TRACK_BNB_PRICE_MS": 350,
+    "FIND_PAIR_MS": 30,
+    "TRACK_TOKEN_PRICE_MS": 5,
+    "MAIN_LOOP_MS": 5,
+    "TRACK_NONCE_MS": 2.5,
+    "MINIMAL": "False",
+    "START_AFTER_ENTER":"False"
+}
