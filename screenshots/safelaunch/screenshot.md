@@ -1,7 +1,7 @@
-> Comando para mostrar os "Deals" as moedas que vão entrar em pre-venda na plataforma
+> Command to show the "Deals" the coins that will go on pre-sale on the platform
 
 ![alt text](https://github.com/lucasccampos/cryptotelegrambot/blob/master/screenshots/safelaunch/deals_safelaunch.jpeg?raw=true)
 
-> Ordem colocada para snipar o Token, bot envia transação para permitir o gasto pelo contrato.
+> Order placed to snipe the Token, bot sends transaction to allow spending by the contract.
 
 ![alt text](https://github.com/lucasccampos/cryptotelegrambot/blob/master/screenshots/safelaunch/deal_approved.jpeg?raw=true)
