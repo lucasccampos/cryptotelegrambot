@@ -1,9 +1,9 @@
 # Crypto Telegram Bot
-## Sobre
+## About
 
-Esse projeto foi criado com o intuito de ser apenas um bot pessoal para trade/sniper de cryptomoedas em DEX via Telegram, mas foi ganhando varias features a ponto de virar uma ferramenta comercial para aluguel de NFTs, apostas no Prediction da PancakeSwap e um sniper para a Launchpad SafeLaunch.
+This project was initially created as a personal bot for cryptocurrency trading/sniper on DEX through Telegram, but it gained several features to the point of becoming a commercial tool for NFT rental, betting on PancakeSwap Prediction and a sniper for SafeLaunch Launchpad.
 
-*_( O projeto não está ativo desde de janeiro 2022 )_*
+*_(The project has not been active since January 2022)_*
 
 ### Tech
 - C#
@@ -11,7 +11,7 @@ Esse projeto foi criado com o intuito de ser apenas um bot pessoal para trade/sn
 - MongoDB
 
 ## Features
-> Descrição mais detalhada sobre cada feature mais abaixo
+> More detailed description about each feature below
 
 - [Trading/Sniper bot (MultiDex)](#tradingsniper-bot)
 - [Pancake Prediction bot](#pancake-prediction-bot)
@@ -22,30 +22,30 @@ Esse projeto foi criado com o intuito de ser apenas um bot pessoal para trade/sn
 ### Trading/Sniper Bot
 [Screenshots](screenshots/trade_sniper/screenshot.md)
 
-Essa feature do bot conseguia comprar/vender tokens a certos preços, igual ordens em corretoras, ou comprar tokens assim que lançados em qualquer DEX, tambem conhecido como sniper bot.
+This feature of the bot was able to buy/sell tokens at certain prices, similar to orders on brokers, or buy tokens as soon as they were released on any DEX, also known as a sniper bot.
 
 ### Pancake Prediction bot
 [Screenshots](screenshots/prediction/screenshot.md)
 
-Essa feature experimental do bot conseguia apostar em rounds do Prediction da PancakeSwap, seguindo uma estrategia criar por mim que tentava apostar no lado mais lucrativo após _x_ rounds consecutivos.
+This experimental feature of the bot was able to bet on rounds of PancakeSwap Prediction, following a strategy created by me that tried to bet on the most profitable side after x consecutive rounds.
 
 ### SafeLaunch sniper bot
 [Screenshots](screenshots/safelaunch/screenshot.md)
 
-Essa feature visava comprar tokens assim que liberados na Launchpad da Safelaunch.
+This feature aimed to buy tokens as soon as they were released on the SafeLaunch Launchpad.
 
 ### Pegaxy rent bot
 [Screenshots](screenshots/pegaxy/screenshot.md)
 
-Essa feature visava alugar NFT's do pegaxy assim que postados por seus donos, implementar isso foi complicado pois o site tentava proteger a todo custo o site contra bots, utilizando captchas e até CloudFlare para bloquear requests sem fingerprint do navegador.
+This feature aimed to rent NFT's from pegaxy as soon as they were posted by their owners, implementing this was complicated as the site tried to protect the site against bots at all costs, using captchas and even CloudFlare to block requests without browser fingerprint.
 
-### Gerenciador de usuarios
+### User manager
 [Screenshots](screenshots/gerenciador_usuarios/screenshot.md)
 
-- Controle de planos de assinaturas _( ex: BASIC / VIP / PREMIUM )_
-> Os planos de assinaturas serviam para limitar os comandos dependendo do plano do usuario.
-- Cada usuario pode ter varias carteiras associadas
-> O usuario poderia cadastrar varias carteiras para utilizar os serviços em cada uma facilmente. 
+- Control of subscription plans _( ex: BASIC / VIP / PREMIUM )_
+> Subscription plans were used to limit commands depending on the user's plan.
+- Each user can have multiple associated wallets
+> The user could register multiple wallets to easily use the services on each one.
 
 
 
