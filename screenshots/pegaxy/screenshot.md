@@ -1,11 +1,11 @@
-> Ordem para tentar alugar um NFT ( cavalo )
+> Order to try to rent an NFT (horse)
 
 ![alt text](https://github.com/lucasccampos/cryptotelegrambot/blob/master/screenshots/pegaxy/ordem_pegar_cavalo.jpeg?raw=true)
 
-> Tentativa falha de alugar o NFT ( outra pessoa/bot pegou primeiro )
+> Failed attempt to rent the NFT (someone else/bot got it first)
 
 ![alt text](https://github.com/lucasccampos/cryptotelegrambot/blob/master/screenshots/pegaxy/falha_de_ordem.jpeg?raw=true)
 
-> Ordem concluida e finalizada, NFT alugado
+> Order completed and finished, NFT rented
 
 ![alt text](https://github.com/lucasccampos/cryptotelegrambot/blob/master/screenshots/pegaxy/ordem_concluida.jpeg?raw=true)
