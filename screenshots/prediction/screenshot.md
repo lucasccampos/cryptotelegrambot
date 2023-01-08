@@ -1,5 +1,7 @@
-> Ordem para começar o bot do prediction com condições de aposta.
-> Ao apostar ele fala o lado que apostou Bear/Bull e o link da transação.
-> Depois que o round finaliza informa se ganhou ou não a aposta.
+> Order to start the prediction bot with bet conditions.
+
+> When betting it says the side that bet Bear/Bull and the transaction link.
+
+> After the round is completed, it informs whether the bet was won or not.
 
 ![alt text](https://github.com/lucasccampos/cryptotelegrambot/blob/master/screenshots/prediction/ordem_prediction.jpeg?raw=true)
